@@ -1,0 +1,58 @@
+/* basic css design */
+.box{
+    background-color: blue;
+}
+.heading{
+    background-color: red;
+}
+.button{
+    background-color: green;
+}
+/* text property */
+#box{
+    text-align: center;
+}
+/* text decoration */
+ #h6{
+    text-align: center;
+    text-decoration: red underline;
+}
+a{
+    text-decoration: blue dotted underline;
+
+}
+/* text property
+font weight */
+#h4{
+    font-weight: normal;
+}
+#h5{
+    font-weight: 800;
+}
+#h7{
+    font-weight: 500;
+}
+/* font family and styles */
+#one{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* unnits in css absolute, relative */
+/* mostly use of pixels px
+line height
+text transfom */
+
+#three{
+    font-size: 30px;
+    line-height: normal;
+    text transform:capitalize;
+}
+#five{
+    text-transform: capitalize;
+}
+/* 
+width,height px
+border property */
+
+border-width
+border-style 
+border-colour
